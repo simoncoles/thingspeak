@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.2.1'
-gem 'mysql2'
+gem 'pg'
 gem 'authlogic'
 gem 'jquery-rails', '2.0.1'
 
